@@ -24,7 +24,7 @@ li {
   font-size: 200%;
 }
 .background {
-  background: linear-gradient(red, yellow);
+  background: linear-gradient(blue, yellow, green);
 }
 .borders {
   border: 3px dashed red;
@@ -45,12 +45,12 @@ li {
 .margins {
   margin: 15px 0 0 15px;
   padding: 5px;
-  background: lightgrey;
+  background: lightgreen;
   box-shadow: -15px -15px 5px rgba(0,0,0,0.05);
 }
 .rounding-edges {
   border-radius: 10px;
-  background: violet;
+  background: lavender;
   padding: 4px;
 }
 .more {
@@ -68,12 +68,12 @@ li {
     transform:  rotate(360deg) ;
     opacity: 1;
     color: red;
-    background-color: white;
+    background-color: darkgreen;
   }
   50% {
     opacity: 0;
     color: blue;
-    background-color: yellow;
+    background-color: darkyellow;
   }
   100% {
     transform:  rotate(0deg) ;

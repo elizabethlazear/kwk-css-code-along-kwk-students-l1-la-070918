@@ -1,1 +1,12 @@
 /* add CSS class and element and selectors here */
+    
+    body {
+      background-color: lightblue
+      font-size: 150%;
+    <link href="https://fonts.googleapis.com/css?family=Gaegu" rel="stylesheet">
+      
+    }
+    
+    .info-section {
+      font-size: 200
+    }
